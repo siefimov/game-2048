@@ -48,7 +48,7 @@ nvm use 20 --version
 
 ```
 git clone https://github.com/siefimov/game-2048.git
-cd kickstarter-landing
+cd game-2048
 ```
 
 ### 3. Install dependencies
